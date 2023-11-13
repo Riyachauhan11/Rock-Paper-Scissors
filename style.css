@@ -1,0 +1,35 @@
+body{
+    background-color: #394D58;
+    text-align: center;
+    margin-top: 5%;
+    color:#FEF9E6
+}
+
+.move{
+    display: inline-block;
+    margin-right:5%;
+}
+
+h1{
+    font-size: 6rem;
+    font-family: 'Lobster', cursive;
+    text-shadow: 3px 0 #DA0463;
+}
+
+h2{
+    font-family: 'Indie Flower', cursive;
+    font-size: 2rem;
+    margin-bottom: 4%;
+}
+
+footer{
+    font-family: 'Indie Flower', cursive;
+    margin-top: 7%;
+}
+
+.pressed{
+    border: 5px solid #FEF9E6 ;
+    border-radius: 12px;
+    box-shadow: 0 3px 4px 0 #e3e2d4;
+    opacity: 0.7;
+}
